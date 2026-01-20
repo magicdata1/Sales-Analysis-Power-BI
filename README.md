@@ -23,7 +23,7 @@ A significant portion of this project involved preparing the data for analysis:
 
 ---
 
-# Key Visualisations & Insights
+# Key Visualisations and Insights
 
 ### 1. Regional Profitability Map (Geospatial)
 **Purpose:** Identifying which European cities and countries generate the highest revenue.
